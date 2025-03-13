@@ -122,6 +122,8 @@ Virtual environments are important because:
 Let's install the packages we need:
 
 ```bash
+uv init
+
 uv add flask flask-sqlalchemy
 ```
 
